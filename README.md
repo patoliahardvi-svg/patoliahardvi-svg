@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patoliahardvi-svg/assets/main/banner.png" alt="Hardvi Patolia Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Hardvi Patolia</h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;SOC+Analyst+%7C+VAPT+Learner;Network+Security;Cloud+Security;Always+Learning+Something+New+%F0%9F%9A%80" />
