@@ -19,3 +19,45 @@ Final Year Computer Science Student passionate about Ethical Hacking, Blue Teami
 - 💼 Looking for Entry-Level Cybersecurity Opportunities
 
 ---
+## 💻 Terminal
+
+```text
+hardvi@cyberlab
+────────────────────────────────────────────
+
+OS           : Windows 11, Kali Linux
+Study        : B.Tech CSE 
+Focus        : Cybersecurity | VAPT | SOC
+Learning     : Cloud Security | Malware Analysis
+Editor       : VS Code
+
+Languages
+────────────────────────────────────────────
+
+Python
+Bash
+C
+Java
+JavaScript
+SQL
+Dart
+
+Tools
+────────────────────────────────────────────
+
+Nmap
+Wireshark
+Burp Suite
+Nessus
+OpenVAS
+Metasploit
+Splunk
+Wazuh
+Git
+Docker
+
+Status
+────────────────────────────────────────────
+
+> Always Learning...
+```
