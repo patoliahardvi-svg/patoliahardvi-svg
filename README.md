@@ -103,6 +103,46 @@ A responsive hotel management website with a modern UI.
   <img src="https://raw.githubusercontent.com/patoliahardvi-svg/assets/main/certifications.png" width="100%">
 </p>
 
+
+## 📚 Currently Learning
+
+<table>
+<tr>
+<td>☁️ AWS Security</td>
+<td>🛡️ Microsoft Sentinel</td>
+</tr>
+
+<tr>
+<td>🔍 Threat Hunting</td>
+<td>📊 Splunk SIEM</td>
+</tr>
+
+<tr>
+<td>🐧 Advanced Linux</td>
+<td>🧠 Malware Analysis</td>
+</tr>
+
+<tr>
+<td>🌐 Network Security</td>
+<td>⚡ Active Directory</td>
+</tr>
+</table>
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:hardvipatolia04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hardvi-patolia-b8b635286">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://github.com/patoliahardvi-svg">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+</p>
 ## 🛠️ Languages & Technologies
 
 <p align="center">
@@ -154,23 +194,6 @@ A responsive hotel management website with a modern UI.
 </p>
 
 ---
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/patoliahardvi-svg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hardvi-patolia-b8b635286">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:hardvipatolia04@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=patoliahardvi-svg&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -181,3 +204,11 @@ A responsive hotel management website with a modern UI.
 > "Cybersecurity isn't just about protecting systems—it's about continuously learning, adapting, and staying one step ahead."
 
 ⭐ Thanks for visiting my profile!
+---
+
+<p align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</p>
