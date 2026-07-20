@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hardvi Patolia</h1>
 
-<!--
-**patoliahardvi-svg/patoliahardvi-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cybersecurity Enthusiast | VAPT | SOC | Network Security
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Final Year Computer Science Student passionate about Ethical Hacking, Blue Teaming, Threat Detection, and Cloud Security.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Graduate
+- 🔐 Passionate about Cybersecurity & Ethical Hacking
+- 🛡️ Interested in VAPT, SOC & Network Security
+- 🌱 Currently learning Cloud Security & Malware Analysis
+- 💼 Looking for Entry-Level Cybersecurity Opportunities
+
+---
