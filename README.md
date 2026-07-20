@@ -67,33 +67,7 @@ Status
 > Always Learning...
 ```
 
-## 🚀 Featured Projects
 
-### 🔐 StegoPixel
-A steganography tool that securely hides secret messages inside images using encryption techniques.
-
-**Tech Stack:** Python | Cryptography | Image Processing
-
----
-
-### 🛡️ SOC Monitoring Lab
-Built a Security Operations Center (SOC) lab using Wazuh and Splunk to monitor, detect, and investigate security events.
-
-**Tech Stack:** Wazuh | Splunk | Linux
-
----
-
-### 🌐 LangBridge
-A real-time multilingual communication application built with Flutter.
-
-**Tech Stack:** Flutter | Dart | APIs
-
----
-
-### 🏨 Twilight Terrace Hotel
-A responsive hotel management website with a modern UI.
-
-**Tech Stack:** HTML | CSS | JavaScript
 
 ## 🚀 Featured Projects
 
@@ -122,6 +96,8 @@ A real-time multilingual communication application built with Flutter.
 A responsive hotel management website with a modern UI.
 
 **Tech Stack:** HTML | CSS | JavaScript
+
+
 
 ## 🛠️ Languages & Technologies
 
