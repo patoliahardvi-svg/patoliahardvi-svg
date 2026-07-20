@@ -97,7 +97,11 @@ A responsive hotel management website with a modern UI.
 
 **Tech Stack:** HTML | CSS | JavaScript
 
+<h2 align="center">🏆 Certifications</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patoliahardvi-svg/assets/main/certifications.png" width="100%">
+</p>
 
 ## 🛠️ Languages & Technologies
 
